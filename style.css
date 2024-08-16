@@ -1,0 +1,14 @@
+.hidden {
+    display: none;
+}
+#formContainer {
+    margin-bottom: 20px;
+}
+.book-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px 0;
+}
+button {
+    margin-left: 10px;
+}
